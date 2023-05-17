@@ -1,0 +1,13 @@
+use('Login');
+
+let data = {
+  first_name: "Gabriel",
+  last_name: "David",
+  age: "23 años",
+  addres: "calle 72",
+  coutry: "Colombia",
+  phone: 3213318827,
+  email: "gabrieldavid2d@gmail.com",
+};
+
+db.Usuarios.insertOne(Gabriel);
